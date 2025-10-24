@@ -1,0 +1,7 @@
+Your Bill:
+
+Laptop: ₹60,000
+Headphones: ₹3,000
+
+----------------------
+Total Amount: ₹63,000
